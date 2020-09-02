@@ -1,0 +1,11 @@
+git init
+git add . # add all files.
+git commit # commit to the master branch.
+
+git push origin master # push to the master branch. i.e. the url
+
+
+# rep must exist on github. this sets the current rep origin to the url.
+git remote set-url origin https://github.com/piexpie/onefuzzy
+
+
